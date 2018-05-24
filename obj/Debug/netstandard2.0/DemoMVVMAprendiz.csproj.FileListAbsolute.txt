@@ -1,0 +1,8 @@
+C:\Users\Aprendiz Sena\source\repos\DemoMVVMAprendiz\DemoMVVMAprendiz\DemoMVVMAprendiz\obj\Debug\netstandard2.0\DemoMVVMAprendiz.csprojResolveAssemblyReference.cache
+C:\Users\Aprendiz Sena\source\repos\DemoMVVMAprendiz\DemoMVVMAprendiz\DemoMVVMAprendiz\obj\Debug\netstandard2.0\DemoMVVMAprendiz.csproj.CoreCompileInputs.cache
+C:\Users\Aprendiz Sena\source\repos\DemoMVVMAprendiz\DemoMVVMAprendiz\DemoMVVMAprendiz\obj\Debug\netstandard2.0\DemoMVVMAprendiz.App.xaml.g.cs
+C:\Users\Aprendiz Sena\source\repos\DemoMVVMAprendiz\DemoMVVMAprendiz\DemoMVVMAprendiz\obj\Debug\netstandard2.0\DemoMVVMAprendiz.MainPage.xaml.g.cs
+C:\Users\Aprendiz Sena\source\repos\DemoMVVMAprendiz\DemoMVVMAprendiz\DemoMVVMAprendiz\obj\Debug\netstandard2.0\DemoMVVMAprendiz.Vista.AprendizPage.xaml.g.cs
+C:\Users\Aprendiz Sena\source\repos\DemoMVVMAprendiz\DemoMVVMAprendiz\DemoMVVMAprendiz\obj\Debug\netstandard2.0\DemoMVVMAprendiz.Vista.DetalleAprendiz.xaml.g.cs
+C:\Users\Aprendiz Sena\source\repos\DemoMVVMAprendiz\DemoMVVMAprendiz\DemoMVVMAprendiz\obj\Debug\netstandard2.0\DemoMVVMAprendiz.AssemblyInfoInputs.cache
+C:\Users\Aprendiz Sena\source\repos\DemoMVVMAprendiz\DemoMVVMAprendiz\DemoMVVMAprendiz\obj\Debug\netstandard2.0\DemoMVVMAprendiz.AssemblyInfo.cs
